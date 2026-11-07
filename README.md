@@ -52,4 +52,4 @@ The project proposal and initial methodology have been prepared. Implementation 
 
 ## Documentation
 The Week 1 NLP project report is available in this repository.
-[📄 Read Week 1 NLP Project Report](docs/CivicSift_AI_Week1_NLP_Report.docx)
+[📄 Read Week 1 NLP Project Report](CivicSift_AI_Week1_NLP_Report.docx)
