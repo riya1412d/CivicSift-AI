@@ -109,12 +109,6 @@ CivicSift-AI/
 └── README.md
 ```
 
-## Documentation
-
-- [Week 1 – NLP Project Proposal](Week-1-Project-Proposal/)
-- [Week 2 – Data Preprocessing and Feature Engineering](Week-2-Data-Preprocessing/)
-- [Week 3 – Text Classification and Evaluation](Week-3-Text-Classification/)
-
 ## Future Scope
 
 - Extend classification to multilingual and code-mixed complaints.
